@@ -1,0 +1,35 @@
+{
+  "name": "rutracker-cli",
+  "version": "0.1.0",
+  "description": "Command line interface to RuTracker.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rutracker-cli": "index.js"
+  },
+  "keywords": [
+    "torrent",
+    "rutracker",
+    "cli",
+    "tools"
+  ],
+  "author": "Igor Kuzmenko <igor@kuzzmi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clear": "0.0.1",
+    "cli-color": "^1.2.0",
+    "clui": "^0.3.1",
+    "configstore": "^3.1.0",
+    "dbus": "^1.0.0",
+    "figlet": "^1.2.0",
+    "home-dir": "^1.0.0",
+    "inquirer": "^3.0.6",
+    "lodash.groupby": "^4.6.0",
+    "lodash.sortby": "^4.7.0",
+    "make-dir": "^1.0.0",
+    "minimist": "^1.2.0",
+    "rutracker-api": "^0.2.0"
+  }
+}

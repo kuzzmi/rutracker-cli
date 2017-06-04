@@ -76,6 +76,7 @@ rutracker-cli --username="kuzzmi" --pasword="123123"
 * Custom sorting
 * Configurable from arguments download path
 * Fully non-interactive mode
+* ...tests
 
 # Contributions...
 

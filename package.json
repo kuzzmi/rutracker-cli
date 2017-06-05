@@ -17,6 +17,10 @@
   ],
   "author": "Igor Kuzmenko <igor@kuzzmi.com>",
   "license": "MIT",
+  "repository": {
+      type: "git",
+      url: "https://github.com/kuzzmi/rutracker-cli.git"
+  },
   "dependencies": {
     "clear": "0.0.1",
     "cli-color": "^1.2.0",

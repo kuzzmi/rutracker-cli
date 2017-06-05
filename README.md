@@ -1,14 +1,16 @@
 ```
-   ___      _               _                      _ _ 
+   ___      _               _                      _ _
   | _ \_  _| |_ _ _ __ _ __| |_____ _ _   ___   __| (_)
   |   / || |  _| '_/ _` / _| / / -_) '_| |___| / _| | |
   |_|_\\_,_|\__|_| \__,_\__|_\_\___|_|         \__|_|_|
-                                                      
+
 ```
 
 # rutracker-cli
 
 Node.js command line interface to RuTracker for downloading `.torrent` files.
+
+![demo.gif](https://raw.githubusercontent.com/kuzzmi/rutracker-cli/master/public/demo.gif)
 
 # Features
 0. Download one or multiple .torrent files from [RuTracker](https://rutracker.org)
@@ -52,7 +54,7 @@ npm i -g rutracker-api
 
 This will run `rutracker-cli` interactive mode:
 ```
-rutracker-cli 
+rutracker-cli
 ```
 
 This will start searching immediately:

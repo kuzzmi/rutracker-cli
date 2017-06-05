@@ -1,6 +1,6 @@
 {
   "name": "rutracker-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Command line interface to RuTracker.org",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
   "author": "Igor Kuzmenko <igor@kuzzmi.com>",
   "license": "MIT",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/kuzzmi/rutracker-cli.git"
+    "type": "git",
+    "url": "https://github.com/kuzzmi/rutracker-cli.git"
   },
   "dependencies": {
     "clear": "0.0.1",

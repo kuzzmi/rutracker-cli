@@ -47,7 +47,7 @@ To run `rutracker-cli`, you must have Node.js and npm installed. If they are not
 Once npm is installed, run the following:
 
 ```
-npm i -g rutracker-api
+npm i -g rutracker-cli
 ```
 
 # Usage
